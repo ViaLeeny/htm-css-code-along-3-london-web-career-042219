@@ -48,6 +48,20 @@ font-family: "serif", cursive;
 }
 
 /*psuedo element*/ 
+#details a:link, #details a: visited{ 
+  color: black ;
+  text-decoration: none;
+} 
 
+#details a:hover{
+ color: black; 
+ text-decoration: underline; 
+  
+}
+
+#details a: active{ 
+  
+  
+}
 
 
