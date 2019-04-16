@@ -60,7 +60,7 @@ font-family: "serif", cursive;
 }
 
 #details a: active{ 
-  
+  color: red; 
   
 }
 
