@@ -35,10 +35,19 @@ figcaption{
 
 /* ID Selector*/ 
 
-#logo{ 
-
-  
+#logo { /*selects <h1> if inside ID logo*/ 
+background: aqua;
 }
+
+#logo h1{ /*selects <h1> if inside ID logo*/ 
+font-family: "serif", cursive;
+}
+
+#logo h2{ /*selects <h1> if inside ID logo*/ 
+font-family: "serif", cursive;
+}
+
+/*psuedo element*/ 
 
 
 
